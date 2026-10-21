@@ -1,23 +1,21 @@
 // Edit this file to personalise the site. Leave a link empty ("") to hide it.
 window.SITE = {
-  name: "Dev",
-  role: "Tropical cyclone researcher",
-  affiliation: "Research Scholar, MEGHA Lab, IIT Hyderabad",
+  name: "Devashish Prakash Singh",
+  role: "Tropical Cyclone Enthusiast",
+  affiliation: "PhD Student, IIT Hyderabad",
   summary:
-    "I study how tropical cyclones intensify, with a focus on rapid intensification over the Bay of Bengal. " +
-    "This site renders every active storm on Earth each day from GFS analyses, using the same 3D flow " +
-    "and vortex-structure diagnostics I use in my research.",
+    "I study how tropical cyclones intensify, precipiatate and influence climate" +
+    "This site renders every active storm on Earth each day from GFS analyses, using 3D flow " +
+    "and vortex-structure",
   interests: [
-    "Rapid intensification of Bay of Bengal cyclones",
-    "Vortex alignment, vertical wind shear and tilt",
-    "Diagnostics from reanalysis and operational model data",
+    "Extreme events analysis, prediction and adaption",
   ],
-  memberships: ["Lifetime Member, Indian Meteorological Society"],
+  memberships: ["Member: IMS | OSI | SAMA | IMeCAN | ECR IIOE II | Carbon Brief | ECR IPCC"],
   links: {
     email: "",          // "you@example.com"
     scholar: "",        // Google Scholar profile URL
-    github: "",         // GitHub profile URL
-    linkedin: "",
+    github: "https://github.com/codesofdevashish",         // GitHub profile URL
+    linkedin: "https://www.linkedin.com/in/devashish-singh/?isSelfProfile=true",
     cv: "",             // link to a PDF CV
   },
 };
